@@ -1,1 +1,1 @@
-# todolist
+# Simple Tip Calculator web Application
