@@ -1,4 +1,4 @@
-// OHH yeahhh lets go
+// OHH yeahhh! lets gooooo!!!!
 //function goes here
 function calcuateTip(){
 //storing the data into the variables
